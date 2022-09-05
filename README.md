@@ -1,6 +1,6 @@
 *********** WEB MASTER && Blockchain Developer ***********
 -------------------------------------
-<img align="right" alt="GIF" src="/image/blockChain_net.gif" width="450" height="270" />
+<img align="right" alt="GIF" src="/image/blockChain_net.gif" width="100%" height="270" />
 
 💗 **My proposal** 💗 
 
@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-<div width="100%" height="400px">
+<!-- <div width="100%" height="400px">
   <img align="left" alt="GIF" src="/image/chat.png"   height="400px" />     
   <img align="right"  src="/image/detail_git.png"   width = "44%" height="400px" />  
-</div>
+</div> -->
