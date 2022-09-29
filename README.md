@@ -1,4 +1,4 @@
-*********** WEB MASTER && Blockchain Developer ***********
+*********** React.js && Blockchain Developer ***********
 -------------------------------------
 <img align="right" alt="GIF" src="/image/blockChain_net.gif" width="100%" height="270" />
 
