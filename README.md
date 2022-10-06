@@ -100,7 +100,7 @@
   
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+      <img src="./image/bitoin.svg" width="100px"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
@@ -154,17 +154,17 @@
 
 <div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
 
-## Full Stack Development
+## Senior Blockchain & Full Stack Development
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-### Front end Developing with Modern Front-end Libraries and Frameworks such as React, Vue, Next, Nuxt.
+### Building DAPP (smart contract Development, Defi Development, NFT Minting, NFT MarketPlace).
 <br />
   
-### Back end Developing with Node.js(Express.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel).
+### Front end Developing with Modern Front-end Libraries and Frameworks such as React, Vue, Next, Nuxt ,Angular.
 <br />
 
-### Building Responsive and Beautiful UI with CSS Frameworks such as Tailwind CSS and so on.
+### Back end Developing with Node.js(Express.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel).
 <br />
   
 </div>
