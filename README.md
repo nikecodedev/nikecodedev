@@ -5,7 +5,7 @@
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold">𝐒ervices 𝐒𝐞𝐭</h2>
 <table>
   <tr>
     <td>
