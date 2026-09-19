@@ -144,28 +144,3 @@
   
   </tr>
 </table>
-<br/>
-<br>
-<div align="center" >
-  <a  align="center" href="https://github.com/DarkBear0121" title="Go to Source">
-    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentdev&theme=react&border=61dafb&hide_border=true" alt="Full-Stack DEV" />
-  </a>
-</div>
-
-<div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
-
-## Senior Blockchain & Full Stack Development
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-### Building DAPP (smart contract Development, Defi Development, NFT Minting, NFT MarketPlace).
-<br />
-  
-### Front end Developing with Modern Front-end Libraries and Frameworks such as React, Vue, Next, Nuxt ,Angular.
-<br />
-
-### Back end Developing with Node.js(Express.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel).
-<br />
-  
-</div>
-<br />
